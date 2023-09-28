@@ -1,12 +1,13 @@
 .holder{
 	width:100vw;
 	height:100vh;
-	justify-content:space-evenly;
+	justify-content:center;
+	align-items:center;
 	display:flex;
 	
 }
 .item{
-	align-item:center;
+	align-items:center;
 	width:100px;
 	height:100px;
 	background:red;
